@@ -20,5 +20,8 @@ tqdm (for progress bar)
 
 ![Page Number](../page_url.gif)
 
+Using the command line:
+![Use example](../Biology_of_Reptilia_downloader.gif)
+
 I imagine this script can be adapted so that you can download a bunch of PDFs and stich them together! 
 
