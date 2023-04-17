@@ -12,6 +12,11 @@ Who is it for:
 
 ___
 
+#### Usage
+
+`python historical_data_call2.py`
+
+
 #### Example
 
 Input CSV:
