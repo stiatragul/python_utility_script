@@ -10,6 +10,10 @@ What it does:
 Who is it for:
   - For anyone who wants to know what the climate at a particular location was like in the past.
 
+Prereqs: 
+  - Access to Openweathermap API
+  - Python v. 3+ (and some libraries)
+
 ___
 
 #### Usage
