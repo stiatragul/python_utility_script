@@ -35,8 +35,9 @@ for url in tqdm(urls, desc='Downloading PDFs...'):
     with open(title, 'wb') as f:
         f.write(response.content)
     merger.append(title)
+    # merger.close()
     # Remove merged pdf
-    os.remove(title)
+    # os.remove(title)
 
 # Write name of the merger
 result_pdf_name = 'Biology_of_Reptilia' + '_Volume' + '_' + volume_no + '_' + page_start + '_' + page_end + '.pdf'
